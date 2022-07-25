@@ -27,7 +27,9 @@ You can meet me on :
 
 The languages I use :
 
-![image](https://user-images.githubusercontent.com/71101255/180736558-f20b8a51-9185-4beb-875c-742cbea08934.png)
-![image](https://user-images.githubusercontent.com/71101255/180737985-5025d23e-9332-4d63-ab16-7cd3dd0efc82.png)
-![image](https://user-images.githubusercontent.com/71101255/180738018-8ce0fe51-384d-4242-a464-328deb8c3318.png)
-![image](https://user-images.githubusercontent.com/71101255/180738615-d74fa572-0a99-44d4-ac5b-d86bfd545b33.png)
+
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+          
+          
+          
+
