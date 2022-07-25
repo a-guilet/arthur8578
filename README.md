@@ -1,18 +1,21 @@
-Bonjour, bienvenue sur mon profil 
+Hi, welcome on my profile ![image](https://user-images.githubusercontent.com/71101255/180740090-44716359-94cd-43cc-9f71-8977448451e7.png)
 
-Qui suis-je?
+
+Who am I ?
+
 Je suis un jeune étudiant français de 19 ans, j'étudie en sécurité des systèmes et des réseaux. Je porte un grand interet pour le développement, en particulier le web. J'investie mon temps libre la dedans.
 Plus d'information :
+
 ![image](https://user-images.githubusercontent.com/71101255/180739285-3b57dcda-95da-444a-b50d-b8019b82f5d1.png)
 
 
 
-Technicien informatique à La Sauvegarde des Yvelines ![image](https://user-images.githubusercontent.com/71101255/180738783-84df8b84-5ac0-4f6b-826d-c0e5c446c9f2.png)
+Technicien informatique à La Sauvegarde des Yvelines <img width="30" alt="Sauvegarde-des-YVelines" src="https://user-images.githubusercontent.com/71101255/180740647-c6427a69-f8f3-4633-9a67-b134d71cfb5e.png">
+
  | En formation à ESIEE-IT en BTS SIO SISR ![image](https://user-images.githubusercontent.com/71101255/180738644-785c18df-5e01-4363-b7d3-1727e32c5ec8.png)
 
 
 Vous pouvez me rencontrer sur :
-![image](https://www.linkedin.com/in/arthur-guilet-technicien-informatique-alternance/)
 
 
 les langages que j'utilise :
