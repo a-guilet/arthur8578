@@ -23,7 +23,7 @@ I study at ESIEE-IT in BTS SIO SISR  <a href="https://www.esiee-it.fr/fr"  targe
 You can meet me on :
 
 <a href="https://www.linkedin.com/in/arthur-guilet-technicien-informatique-alternance/"  target="_blank"><img alt="Esiee-it" src="https://user-images.githubusercontent.com/71101255/180744919-7c479831-dfab-4466-bd20-43a65db98160.png" alt="" /></a>
-<a href="arthur.professio@gmail.com"  target="_blank"><img alt="Gmail" src="https://user-images.githubusercontent.com/71101255/180747248-553046f9-213d-4f34-aaee-7a9eb2861994.jpg" alt="" /></a>
+<a href="mailto:arthur.professio@gmail.com?subject=Sujet du message"  target="_blank"><img alt="Gmail" src="https://user-images.githubusercontent.com/71101255/180747248-553046f9-213d-4f34-aaee-7a9eb2861994.jpg" alt="" /></a>
 
 The languages I use :
 
